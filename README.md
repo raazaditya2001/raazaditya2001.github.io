@@ -1,22 +1,32 @@
-# Responsive Navbar Project (task_4)
 
-## 📌 Overview
+# Static Website Deployment using GitHub Pages (task_5)
 
-This project is a simple responsive navigation bar built using HTML and CSS. It adjusts layout based on screen size using media queries.
+##  Project Overview
 
-## 🚀 Features
+This project demonstrates how to deploy a simple static website using **GitHub Pages**. The website is built using basic web technologies like HTML, and CSS and hosted for free.
 
-* Responsive design for mobile devices
-* Dropdown menu for small screens
-* Clean and simple UI
-* CSS Flexbox used for layout
+---
 
-## 🛠️ Technologies Used
+##  Objective
 
-* HTML5
-* CSS3 (Media Queries, Flexbox)
+To host a static website online using GitHub Pages and understand the deployment workflow.
 
-## 📱 Responsive Breakpoint
+---
 
-* `max-width: 768px` for mobile view
+## Technologies Used
+
+* HTML
+* CSS
+* Git & GitHub
+
+---
+
+
+## 📚 Learning Outcomes
+
+* Understanding GitHub Pages
+* Version control using Git
+* Static website hosting
+
+
 
